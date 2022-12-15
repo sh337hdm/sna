@@ -1,0 +1,29 @@
+id,name,type,party
+ul,Ursula von der Leyen,1,CDU
+lk,Lars Klingbeil,1,SPD
+nr,Norbert Roettgen,1,CDU
+sw,Sahra Wagenknecht,1,Linke
+cs,Constanze Stelzenmueller,1,NA
+cl,Christian Lindner,1,FDP
+ks,Karl Schloegel,1,NA
+lm,Ljudmyla Melnyk,1,NA
+kd,Kristina Dunz,1,NA
+el,Eglis Levtis,1,NA
+ab,Annalena Baerbock,1,B90
+ft,Frans Timmermans,1,NA
+am,Andrij Melnyk,1,NA
+agl,Alexander Graf Lambsdorff,1,FDP
+er,Egon Ramms,1,NA
+rh,Robert Habeck,1,B90
+cm,Claudia Major,1,NA
+kp,Katja Petrowskaja,1,NA
+rk,Roderich Kiesewetter,1,CDU
+500,Folge 500,2,NA
+501,Folge 501,2,NA
+502,Folge 502,2,NA
+503,Folge 503,2,NA
+CDU,Christliche Demokratische Partei,2,CDU
+SPD,Sozialdemokratische Partei,2,SPD
+Linke,Die Linke,2,Linke
+FDP,Freie Demokratische Partei,2,FDP
+B90,Bündnis90 / Die Grünen,2,B90
